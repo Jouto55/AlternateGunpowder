@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "pattern": [
+    "CB"
+  ],
+  "key": {
+    "C": {
+      "item": "alternategunpowder:black_powder"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 2
+  }
+}
